@@ -1,0 +1,20 @@
+{
+  "name": "json-diff-change",
+  "version": "1.0.4",
+  "description": "Compares JSON and returns tree with statuses new, removed, updated.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON",
+    "diff",
+    "JSON",
+    "cmmpare"
+  ],
+  "author": "Savan Koradia <koradia.savan@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
