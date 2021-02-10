@@ -20,3 +20,6 @@ In case of facing issues, please reachout to me: koradia.savan@gmail.com
 
 ### Contribute on github
 https://github.com/savankoradia/json-diff-change
+
+### Survey
+https://us7.list-manage.com/survey?u=abc6246b11d31f27765f716bb&id=8f033cde07
